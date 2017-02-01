@@ -6,7 +6,7 @@ ASSIGNMENT: A5 Question 1
 AUTHOR Richard Salas Chavez
 VERSION March 17, 2015
 
-PURPOSE: 
+PURPOSE: perform calculations using the numpy library
 """
 
 #imports
